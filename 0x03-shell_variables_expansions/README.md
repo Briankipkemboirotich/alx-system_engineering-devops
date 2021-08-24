@@ -1,0 +1,1 @@
+School shell project about init files, variables and expansions
