@@ -1,0 +1,1 @@
+School project involving Processes and signals in git
