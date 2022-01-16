@@ -1,0 +1,1 @@
+School project involving git bash Loops, conditions and parsing
